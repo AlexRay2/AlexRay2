@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexRay2
-- 👀 I’m interested in Java , CSS , JavaScript , Python .
+- 👀 I’m interested in Java , CSS , JavaScript.
 - 🌱 I’m currently learning Java , CSS
 - 💞️ I’m looking to collaborate - None
 - 📫 How to reach me - programgeniyjava@mail.ru
