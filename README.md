@@ -14,7 +14,7 @@ I'm interested in Java Spring | Docker | SQL | NOSQL | etc.😁!
 At the same time, I improve my English and my сoding abilities!
 
 ## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexRay2&repo=BaggerFast&theme=dracula&bg_color=00000000&)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexRay2&repo=Easy-code&theme=dracula&bg_color=00000000&)]()
 
 
 <details align="left">
